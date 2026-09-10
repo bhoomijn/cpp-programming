@@ -39,9 +39,6 @@ int main() {
     // Characters are stored as ASCII values (0-127)
     char c = 'A';
     cout << "char c = " << c << endl;
-    
-    char symbol = '@';
-    cout << "char symbol = " << symbol << endl;
 
     cout << "\n=== Boolean Data Type ===" << endl;
     
@@ -50,9 +47,6 @@ int main() {
     // In output: false prints as 0, true prints as 1
     bool d = true;
     cout << "bool d = " << d << endl;
-    
-    bool flag = false;
-    cout << "bool flag = " << flag << endl;
 
     return 0;
 }
