@@ -24,6 +24,7 @@ This repository contains my learning progress, concept-wise implementations, cod
 * **Dynamic Memory** - `new` and `delete` operators, memory management
 
 ### Advanced Topics
+
 * **Object-Oriented Programming (OOP)**
   - Classes and objects
   - Constructors and destructors
